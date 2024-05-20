@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "mongodb+srv://b191613:<password>@cluster0.hsiokof.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "request": "launch",
+            "url": "mongodb+srv://b191613:<password>@cluster0.hsiokof.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        }
+    ]
+}
